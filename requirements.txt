@@ -1,0 +1,8 @@
+telebot
+yt-dlp
+requests
+python-dotenv
+yandex-music
+vk-api
+beautifulsoup4
+lxml
